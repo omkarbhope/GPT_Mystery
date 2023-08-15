@@ -1,0 +1,8 @@
+
+  
+  /* Media query for a particular screen size (e.g., max-width: 768px) */
+  @media (max-width: 768px) {
+    .spline-container {
+      display: block; /* Show the component for screens with a width of 768px or less */
+    }
+  }

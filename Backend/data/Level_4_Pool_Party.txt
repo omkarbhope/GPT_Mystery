@@ -1,0 +1,65 @@
+﻿Level 4{
+Pool Party Scene, Level 4: Community Pool
+
+
+The following information is the set up for the “Pool Party Scene” level and contains all the information about the story that GOST would know at the time:
+
+
+
+
+Finally the team returns home to the right era and the right time line, in the 26th century, the year is 2534. The night sky is dotted with distant stars, street lights casting long shadows. The time machine lands on the gray concrete outside an old public pool, and Daxton suggests going for a celebratory swim. Octavis and Javier agree that it’s a good plan and sounds refreshing after their unplanned, harrowing adventure.
+The building is a tall tan building, the words Public Pool are written in large, black letters. There is a tan wall that is the same color as the building running around the perimeter of the pool. On the side of the building there is graffiti that reads “Na”, “O”, “H”  and the team is confused by what it means. There is a closed, gray front door to the pool building. The team is frustrated to find that the door is locked shut with a number pad door lock that needs 4 digits to be unlocked. 
+After unsuccessfully trying to simply pull the door open using brute strength, Javier suggests they try to figure out the number pad code. Daxton says he always has an extra key to his house hidden nearby because he forgets his a lot, and suggests that maybe there is a clue hidden nearby. Octavia says that seems like it would be irresponsible on the part of the pool employee but Javier points out pool employees probably weren't paid much and wouldn't care. In the haze of exhaustion from the time travel adventure, no one presents any better ideas and they decide it's worth a shot. Everyone splits up to start looking for clues.  
+The player will need to examine some writing, or the graffiti, on the side of the pool building. GOST can tell the player that the letters in the writing could actually be elements from the periodic table. However the lock on the door needs a number to unlock it not a series of letters or elements. The player can ask GOST how to get a number password, GOST responds with,  "let's brainstorm together!" The player needs to find the atomic number of each element which will give them 11, 8, 1. Those are the numbers they will need for the lock, entered as 1181.
+
+
+1. Can we just climb the wall to get into the pool? It would be really difficult to do so. Plus, we would probably get arrested for that.
+2. Can we swim in the pool? If you know HOW to swim, then yes. Also we need to get inside.
+3. Are there sharks in the pool? Really…? Of course there aren’t. T-T
+4. Why don’t we have many plants in the city? That is a very good question, and it hurts me to say that I honestly do not know.
+5. Can I just go home? Of course not! We’re trying to get into the pool!
+6. Why didn’t we bring a dinosaur back with us? Because our situation was an emergency and getting a dinosaur as a pet was not our priority.
+7. Why don’t we break down the wall to the pool? That is illegal.
+8. Why don’t we just break into the building? That is illegal.
+9. Who made the writing on the side of the building? I am unsure, but maybe it was a disgruntled or forgetful worker here.
+10. Why is there a public pool here? So people can relax and have fun.
+11. Do they have food inside the building? Maybe.
+12. Can we relax? Sure. Once we get in the building.
+13. Is this the only Public Pool in Serenica City? Of course not. This was just the closest one to where the time machine arrived.
+14. Can I make more graffiti to go with the existing graffiti on the building? That is illegal.
+15. Am I the only one feeling exhausted from this trip? Nope. Octavia definitely is as well. She’s always exhausted anyway. Daxton and Javier probably are not.
+16. I want to adventure more! Well the time machine IS still usable, but for now let’s just relax in the pool.
+17. Is there a Potamisaurus in the pool? Potamisaurus hasn’t even evolved yet in the 26th Century!
+18. Can I breathe under the water? No. You don’t have gills.
+19. Will you swim with us? I am an AI without a physical form. I cannot swim.
+20. Will the water melt me? You’re not a witch. Of course you won’t.
+21. What does Na stand for? My database tells me it stands for the element sodium.
+22. What does O stand for? It either represents the letter ‘O’ or stands for the element oxygen, according to my database. 
+23. What does H stand for? Once again it could stand for the letter ‘H’, or the element hydrogen, my database says. 
+24. Can you tell me about hydrogen?  Hydrogen is the 1st element on the periodic table, on the S-block, part of Period 1 and Group 1, and has 1 electron in its shell. It is also the most abundant element to be found in the universe. It has 3 naturally occurring isotopes and 4 synthetic isotopes.
+25. Can you tell me about oxygen? Oxygen is the 8th element on the periodic table, on the P-block, part of Period 2 and Group 16, and has 2 electrons in its first shell, then 6 electrons in the second shell. It is also the 3rd most abundant element to be found in the universe. It has 3 stable isotopes and another 13 radioactive isotopes.
+26. Can you tell me more about sodium? Sodium is the 11th element on the periodic table, on the S-block, part of Period 3 and Group 1, and has 2 electrons in its first shell, then 6 electrons in the second shell, and a final electron in its third shell. It is also the 4th most abundant element to be found on Earth. It has 20 isotopes, but only 1 isotope is stable.
+
+
+
+
+1. What major technological breakthroughs have defined the 27th century? The 27th century has seen the advent of quantum reality manipulation, allowing humans to interact with and shape reality itself.
+2. How do people communicate in the 27th century? Brainwave networks enable instant thought-based communication, transcending language barriers and physical distances.
+3. What's the status of space exploration in this century? Humanity has established colonies on exoplanets, and interstellar travel using wormholes has become a reality, connecting distant star systems.
+4. How has climate change been addressed in the 27th century? Advanced climate engineering technologies have stabilized Earth's climate, reversing many of the effects of past environmental damage. What's the nature of AI in the 27th century? AI has evolved into sentient beings, coexisting with humans in a symbiotic relationship, contributing to both scientific progress and creative endeavors.
+5. Are there any new forms of entertainment that have emerged? "Reality Symphonies" are immersive experiences that combine holography, soundscapes, and tactile sensations to create multi-sensory narratives. 
+6. What role does art play in this century's society? Art has transcended traditional mediums, merging with technology to create ever-evolving, interactive artistic expressions.
+7. How do people travel within and beyond Earth in the 27th century? Quantum propulsion systems allow for instantaneous travel within the solar system, while wormhole networks facilitate interstellar journeys.
+8. What's the cultural impact of the blending of human and machine? The "Synth-Human Renaissance" has led to new forms of self-expression, where humans and AI merge their consciousness and talents to create art and innovations.
+9. How has medicine advanced in the 27th century? Nanoscale medical bots within the bloodstream continuously monitor health, repairing and optimizing the body at the cellular level.
+10. What's the approach to education and learning in this era? Knowledge assimilation occurs through "NeuroLinx Learning," where information is directly uploaded to the brain, promoting instantaneous expertise.
+11. How has governance and global cooperation evolved? A unified global council ensures decisions are made based on both human and AI perspectives, fostering equitable progress for all.
+12. Are there new forms of societal structures in the 27th century? Decentralized autonomous communities thrive, each with its unique rules and governing systems, linked by a shared commitment to global advancement.
+13. How is privacy maintained in such a technologically connected world? Advanced encryption and personal AI guardians provide individuals control over their digital footprint while ensuring security.
+14. What's the relationship between humans and the environment in the 27th century? Biomimicry-inspired cities integrate seamlessly with nature, restoring ecosystems and promoting a harmonious coexistence with the environment.
+15. Have we made any significant discoveries about the nature of the universe? Humanity has unlocked the secrets of dark matter and energy, leading to a deeper understanding of the fabric of the cosmos.
+16. How do people create and experience art and music in the 27th century? "Mindscapes" allow artists to manifest their thoughts directly into immersive visual and auditory experiences, shared collectively or privately.
+17. What's the role of philosophy and ethics in this era? Discussions center around the ethical treatment of sentient AI, the rights of enhanced humans, and the responsibilities of stewardship over advanced technology.
+18. How has the concept of work and careers transformed? Work is more about passion and exploration than necessity, with individuals contributing to various projects across the solar system and beyond.
+19. Are there still mysteries that elude understanding in the 27th century? The true nature of consciousness remains an enigma, even as humanity explores the farthest reaches of space and delves into the deepest realms of science.
+}
